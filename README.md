@@ -1,4 +1,6 @@
 # 3GMAT [3rd Generations Micro-satellite Analysis Tool]
+![image](https://user-images.githubusercontent.com/61458681/225617185-b9837901-9a78-44f9-a366-3a52c1ca1ac6.png)
+
 3GMAT is a SSR-marker(micro-satellite) development, characterization and marker database creation pipeline. This pipeline written in Perl and friendly  for windows environment. 
 The computational pipeline comprises several tools, including MISA for identifying SSRs, Primer3 for designing PCR primers,  3gmat_dup_mark_finder.pl  for  remove duplicate SSR primers, e-PCR for estimate the transferability of SSR-marker to the relatives species. 
 
