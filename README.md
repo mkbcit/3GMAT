@@ -11,3 +11,11 @@ Results from different steps of analysis are store in separate file with differe
 #   Output files
 All the outputs are store in folder called in_out.  The list and descriptions of output file  are presented in   table as follows: 
  
+| File                          | Description                                                        |
+|:---                           |:---                                                                |
+| Test.fasta                    | Genome seq file FASTA format                                       |
+| Test.fasta.misa               | MISA output contains SSR analysis data                             |
+| Test.fasta_SSR_stat.xls       | Statistics of SSR analysis obtained from MISA output               |
+| Test.fasta.p3in               | Data generated for Primer3 tools                                   |
+| Test.fasta.p3out              | Output file from Primer3, contains SSR-primer and its attribute    |
+| Test.fasta.results            | SSR analysis and primer design all attribute recorded in this file |
