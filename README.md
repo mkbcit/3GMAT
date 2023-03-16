@@ -19,3 +19,8 @@ All the outputs are store in folder called in_out.  The list and descriptions of
 | Test.fasta.p3in               | Data generated for Primer3 tools                                   |
 | Test.fasta.p3out              | Output file from Primer3, contains SSR-primer and its attribute    |
 | Test.fasta.results            | SSR analysis and primer design all attribute recorded in this file |
+|Test.fasta.inDMF	              | Duplicate marker search input data file                            |
+|Test.fasta.DMF.Stat	           | Duplicate marker search result                                     |
+|Test.fasta.ePCRout	            | e-PCR result                                                       |
+|Test.fasta.slm	                | Multilocus Primer list                                             |
+|Test.fasta.Sloc               	| Single locus Primer list                                           |
